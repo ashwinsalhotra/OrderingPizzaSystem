@@ -1,0 +1,25 @@
+Pizza Ordering System
+
+PizzaOrderingSystem project
+some classes
+	UI class
+		display list available pizzas
+		Take pizza ID from the customer (eg. 1 for Cheese and Tomato)
+		Hand over the pizza ID to chef
+		...
+	Pizza class
+		Name
+		Price
+		Cooking time
+	Thread (chef)
+		Takes the pizza object
+		Cooks the pizza (sleep for some time)	
+		Notifies the UI class when it has finishes sleeping (cooking)
+
+	Custom event
+		...
+		Event listener
+			interface
+				pizzaCooked(pizza object)
+			
+some packages

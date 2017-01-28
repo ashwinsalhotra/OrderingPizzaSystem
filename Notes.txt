@@ -1,0 +1,15 @@
+Requirements for a Pizza Ordering System:
+- At least 2 sizes to choose from
+- At least 2 toppings
+
+- prices vary from the size and additional toppings...
+
+
+Main - to run the program through the console by the user input (keyboard scanner)
+
+Pizza class:
+	- Name
+	- Size
+	- Cost
+
+https://github.com/UMass-Michael/Java/blob/master/Pizza%20(Lab%204)/Pizza.java
